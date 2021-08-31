@@ -3,4 +3,6 @@
 
 ## Overview
 * Logisitc Regression , SVC 에 적합한 data Preprocessing 에 중점을 두었습니다.
-* 
+
+### How to Preprocess Data?
+ 1. 
