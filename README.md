@@ -26,13 +26,13 @@
 
  - Avoid Overfitting
   
-    * Combining features
+     - Combining features
         1. Famliy size
         2. Ticket Code
         3. Cabin isin
         
-     * Feature drop (경험에 기반해 feature 드랍, Mushroom Classfication 에서 Features Selection 학습 예정)
+     - Feature drop (경험에 기반해 feature 드랍, Mushroom Classfication 에서 Features Selection 학습 예정)
      
-     * Cross validation
+     - Cross validation
 
  - Modeling
