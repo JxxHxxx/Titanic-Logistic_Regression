@@ -3,9 +3,9 @@
 
 ## Data analysis process
 
-1. Data collection - [kaggle - titanic data](https://www.kaggle.com/c/titanic/data)
+### Data collection - [kaggle - titanic data](https://www.kaggle.com/c/titanic/data)
 
-2. Data preprocessing <br>
+### Data preprocessing <br>
   Log, SVC model 에 알맞게 전처리를 진행했습니다. 
   
   - Missing value handling
@@ -13,7 +13,7 @@
   - Scaling with Standardscaler
   - One-Hot-encoding with Dummies
  
-3. Modeling - Logistic Regression, SVC
+### Modeling - Logistic Regression, SVC
 
  - Avoid Overfitting
   * Combining features
