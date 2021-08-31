@@ -3,7 +3,7 @@
 
 ## Data analysis process
 
-### Data collection <br> [kaggle - titanic data](https://www.kaggle.com/c/titanic/data)
+### Data collection <br><br> [kaggle - titanic data](https://www.kaggle.com/c/titanic/data)
 
 ### Data preprocessing <br>
   Log, SVC model 에 알맞게 전처리를 진행했습니다. 
