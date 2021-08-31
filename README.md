@@ -3,7 +3,7 @@
 
 ## Overview
 * Data source - [kaggle](https://www.kaggle.com/c/titanic/data)
-* Data preprocessing
+* Data preprocessing <br>
   Log, SVC model 에 알맞게 전처리를 진행했습니다. 
   
   - Missing value handling
