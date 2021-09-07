@@ -1,4 +1,10 @@
+<br>
+<br>
+
 # Titanic Survivor Prediction
+<br>
+
+![](titanicLogo.jpg)<br><br>
 세계에서 가장 큰 규모의 데이터 분석 커뮤니티인 kaggle 의 대표 분류 예측 문제인 타이타닉 생존자 예측에 관한 코드입니다.
 
 # Data analysis process
